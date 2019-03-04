@@ -1,0 +1,32 @@
+{
+  "name": "zadanie-test",
+  "version": "0.0.1",
+  "description": "Zadanie testowe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "task_feb_2019"
+  },
+  "keywords": [
+    "task",
+    "test"
+  ],
+  "author": "LF",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "git": "^0.1.5",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-uglifycss": "^1.1.0",
+    "lint": "^1.1.2",
+    "node-sass": "^4.11.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
